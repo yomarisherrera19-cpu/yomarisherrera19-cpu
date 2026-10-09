@@ -1,16 +1,13 @@
-## Hi there 👋
+· 🌙 ¡Hola, soy TOMATO, ES MI APODO! 💜
+··· Estudiante de programación | SENA 🎓
+Aprendiendo desde cero, soñando en grande ✨
+·· 🌷 Sobre mí
+🌱 Estoy comenzando mi camino en la programación.
+🎓 Estudio programación en el SENA.
+💻 Aprendiendo Git, GitHub y lógica de programación.
+🦋 Creciendo un poquito cada día.
+🎯 Mi meta es convertirme en una gran programadora.
+🛠️ Mi camino tecnológico
+>“No necesito saberlo todo hoy; solo necesito seguir aprendiendo”. 💜
+Gracias por visitar mi pequeño universo 🌙✨
 
-<!--
-**yomarisherrera19-cpu/yomarisherrera19-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
